@@ -2,6 +2,12 @@
 
 # 🚗 Road Accident Dashboard (Tableau)
 
+# 🚗 Road Accident Dashboard (Tableau)
+
+## 🔗 View Live Dashboard  
+👉 **[Click Here to Open the Tableau Dashboard]([https://public.tableau.com/views/Project-1_16956855739470/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]))**  
+
+
 ## 🎥 Demo
 
 Here’s a quick look at the **Road Accident Analysis Dashboard** 👇
